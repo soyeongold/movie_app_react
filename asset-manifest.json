@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soyeongold/movie_app_react.git/static/css/main.e18b9560.chunk.css",
+    "main.js": "/soyeongold/movie_app_react.git/static/js/main.5e04676f.chunk.js",
+    "main.js.map": "/soyeongold/movie_app_react.git/static/js/main.5e04676f.chunk.js.map",
+    "runtime-main.js": "/soyeongold/movie_app_react.git/static/js/runtime-main.76007b24.js",
+    "runtime-main.js.map": "/soyeongold/movie_app_react.git/static/js/runtime-main.76007b24.js.map",
+    "static/js/2.b17817c1.chunk.js": "/soyeongold/movie_app_react.git/static/js/2.b17817c1.chunk.js",
+    "static/js/2.b17817c1.chunk.js.map": "/soyeongold/movie_app_react.git/static/js/2.b17817c1.chunk.js.map",
+    "index.html": "/soyeongold/movie_app_react.git/index.html",
+    "static/css/main.e18b9560.chunk.css.map": "/soyeongold/movie_app_react.git/static/css/main.e18b9560.chunk.css.map",
+    "static/js/2.b17817c1.chunk.js.LICENSE.txt": "/soyeongold/movie_app_react.git/static/js/2.b17817c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76007b24.js",
+    "static/js/2.b17817c1.chunk.js",
+    "static/css/main.e18b9560.chunk.css",
+    "static/js/main.5e04676f.chunk.js"
+  ]
+}
